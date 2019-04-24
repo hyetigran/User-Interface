@@ -173,8 +173,8 @@ h1 {
   text-align: center;
   padding-top: 50px;
 }
-p .button {
-  text-align: center;
+button {
+  margin: auto;
   background-color: white;
   color: darkgrey;
   border: 2px solid grey;
